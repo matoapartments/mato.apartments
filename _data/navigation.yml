@@ -1,15 +1,9 @@
 nav:
-  - title: "Services"
+  - title: "O nas"
     section: services
 
-  - title: "Portfolio"
-    section: portfolio
-    
-  - title: "About"
-    section: timeline
-
-  - title: "Team"
+  - title: "Zespół"
     section: team
 
   - title: "Kontakt"
-    section: kontakt
+    section: contact
